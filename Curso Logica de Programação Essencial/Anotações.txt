@@ -1,0 +1,14 @@
+##Logica de Programação essencial##
+
+Links:
+Hora do código - lógica de programção com Minecraft: https://studio.code.org/s/mc/lessons/1/levels/1
+
+Wolf, sheep and Cabbage - jogo do lobo, ovelha e repolho: https://www.proprofsgames.com/wolf/
+
+Racha cuca - jogo dos pinguins: https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+Softwares:
+
+Portugol: https://github.com/UNIVALI-LITE/Portugol-Studio/releases
+
+Flowgorithm: http://www.flowgorithm.org/download/index.html
