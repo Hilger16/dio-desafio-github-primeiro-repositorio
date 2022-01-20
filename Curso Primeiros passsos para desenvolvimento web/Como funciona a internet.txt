@@ -1,0 +1,43 @@
+Rede de computadores
+computadores interligados por meio de backbone
+Provedor de acesso - empresas que fornecem a internet
+Provedor de serviço
+Dual-up
+adsl
+fibra ótica
+rádio
+satélite
+móvel
+p2p
+
+REDE
+
+TCP/IP - protocolo de controle de transmissão/protocolo de internet
+
+4 camadas para transmissão
+física(placa de rede)
+rede(IP)
+transporte(TCP,UDP)
+aplicação(FTP,SMTP,HTTP)
+
+UDP - rápido e não confiável
+TCP - voltado a conexão/handshake/integridade, onde de dados/aplicativos de mensagens de texto
+
+portas - por ondes dados saem e chegam
+20:FTP
+22:SSH
+25:SMTP
+53:DNS
+80:HTTP
+443:HTTPS
+
+Modem(modulator-demolutor) - converte dados em um formato que possa ser transmitido de um computador para outro e lido por outro
+
+roteador - distribui internet para um ou mais dispositivos de uma rede/ - inteligente
+
+switch - distribui para um ou mais dispositivos de uma rede/ + inteligente
+
+Portas do gmail: 25, 465 ou 587
+
+Porta padrão do MySQL: 3306
+Porta padrão do Apache: 8080 ou 81

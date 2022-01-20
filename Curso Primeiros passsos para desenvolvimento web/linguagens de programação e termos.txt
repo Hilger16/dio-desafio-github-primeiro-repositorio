@@ -1,0 +1,45 @@
+Principais LPs
+HTML/CSS
+JavaScript (jQuery, AJAX, diversas libs)
+PHP
+.NET
+ASP
+Java
+Ruby(on Rails)
+Python
+Perl
+C/C++/C#
+
+Termos comuns
+-404 - erro pagina não existe
+-Algoritmo - sequencia de passos para executar uma tarefa
+-ALT - mostra descrição (SEO)
+-API - funcionalidade que pode se colocar em um site para executar outras funções
+-Aplicação
+-Back-end
+-Biblioteca/dll - conjunto de ferramentas para mais recursos
+-Boostrap - framework mais utilizado
+-Breakpoints - pontos chaves de uma tela
+-Browser/navegador - interpreta linguagens de programação
+-Bug
+-Cache
+-Código
+-Controle de versão - software que controla versões do código
+-Cookies
+-Debug
+-Deploy - pacote que é enviado para ser executado
+-Design adaptativo/responsivo - se adequa a qualquer tipo de tela e tamanho
+-Editor de texto - IDEs
+-Estrutura de dados - pilha, filha
+-Favicon - representa o site
+-Fontes
+-Framework - ferramentas para desenvolver o software
+-Front-end
+-Meta tags - tags html que tem função expecifica
+-Método ágil - agiliza a programção
+-MVC - arquitetura de software
+-MVP - minimo produto viável para teste
+-MySQL - banco de dados
+-Resolução - quantidade de pixels
+-SSL - camada de segurança do site
+-WYSIWYG - o que voçe ve, o que voçe recebe

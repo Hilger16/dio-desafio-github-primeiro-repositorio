@@ -1,0 +1,21 @@
+SMS - é de graça para a operadora
+MMS - evolução (mensagem de audio e vídeo)
+
+1G(analógico)10Kbps
+2G(GSM)
+2,5G(GPRS)
+3G(7Mbps)
+4G(22,1Mbps)
+5G(10Gbps)
+
+Wifi - conexão sem fio
+padrões de frequencia e transmissão
+
+segurança na internet
+WEP: chave de 64 bits e de 128 bits
+WPA chave trocada periodicamente
+WPA2 (AES) (802.11i)
++ segurança
++ processamento
+
+Bluetooth - interação entre dispositivos ponto-a-ponto (não precisa de internet)

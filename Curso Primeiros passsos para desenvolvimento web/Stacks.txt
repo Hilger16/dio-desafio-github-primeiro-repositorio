@@ -1,0 +1,11 @@
+pilhas de tecnologias/conjunto de softwares necessários para executar um aplicativo/programa
+ambientes e ferramentas de interação com o app/sw
+
+Front-end - parte da frente do site(site,software, aplicativo, web service)
+interface, UI(3 pontos que ira menu), UX
+
+back-end - parte de tras do site (servidor, banco de dados) meio de campo entre interface e bancos de dados
+MySQL, Oracle, protocolos de comunicação, PHP, Java, node.js
+
+Full stack, trabalha em todas as camadas das tecnologias de desenvolvimento/excecução de um app/sw
+

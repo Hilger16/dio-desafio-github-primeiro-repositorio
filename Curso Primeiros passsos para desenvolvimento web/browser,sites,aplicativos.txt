@@ -1,0 +1,12 @@
+browser - programa para visualizar sites/interpreta linguagens de programação/marcação e conteudo multimedia (diversos tipos de sites) - feitas em diversas linguagens de programação
+
+Aplicativo - forma diferente de acessar um conteudo de um site
+
+E-commerce - comercio eletronico - sites de compra e venda com sistemas de pagamento (pagamento pode ser exterior ao site)
+
+web server - onde fica guardada as informações dos sites (statico e dinamico)
+statico (fisíco) dinamico (software que estão no servidor fisico
+tipos: arquivos, aplicações, banco de dados ou um que tem tudo junto
+
+o banco de dados e um site precisam estar em um servidor
+
