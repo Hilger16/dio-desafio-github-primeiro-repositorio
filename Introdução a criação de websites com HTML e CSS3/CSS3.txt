@@ -1,0 +1,29 @@
+Em 1996 foi criado o css
+São regras de estilo
+são seletores que dentro de um par de chaves tem as declarações que tem a propriedade e um valor
+Também temos id e classes
+classe é precedida por .
+e id por #
+
+conceitos basicos
+box model (margin,border,padding e content)
+
+estilizantes
+padding e margin
+background
+border - largura, estilo e cor
+border radius 
+
+textos
+font-family
+font-size
+font-style
+font-weight
+text-transform
+
+list-style-type
+
+dimensão e alinhamento
+width e height - altura e largura
+margin
+text-align

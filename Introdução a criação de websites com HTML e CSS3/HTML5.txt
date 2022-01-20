@@ -1,0 +1,42 @@
+HTML começou com Tim Berners Lee
+HTML 1-1991
+HTML 2-1995
+HTML 3-1997
+HTML 4-1997
+HTML 5-2014
+
+Elemento é a base do html
+tag de abertura/atributo/conteudo/fechamento de tag
+<h1 class="titulo">Título</h1>
+
+estrutura básica
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta>
+  <title></title>
+ </head>
+ <body>
+ </body>
+</html>
+
+Com o html 5 se criou os novos elementos 
+=section - uma seção genérica contida no documento
+=header - grupo de suporte introdutório só existe um header principal
+=article - seção independente do documento
+=aside - conteúdo relacionado ao seu entorno
+=footer - rodapé
+
+
+textos e links
+p representa paragrafo
+a é uma âncora (href e target)
+
+imagem não tem tag de fechamento
+só tem src e alt
+
+listas
+ul, ol, li
+ul a ordem não é importante
+ol a lista é importante
+li é um item da lista
