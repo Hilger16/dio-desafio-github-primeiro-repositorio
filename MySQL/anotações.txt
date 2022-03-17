@@ -1,0 +1,21 @@
+Modelo relacional
+surgiu na decada de 60 proposto por Edgar Codd
+As tabelas são compostas por entidades, atribuos e chaves
+As chaves permitem o relacionamento entre os dados
+
+As tabelas organizam de forma estruturada os dados
+Dados atômicos: dados unicos que não existem em outro lugar
+Consulta e manipulação de dados simplicada
+
+primary key tem que ter em todas as tabelas
+
+CREATE TABLE
+INSERT INTO
+SELECT
+UPDATE WHERE
+DELETE
+ORDER BY
+ORDER BY DESC
+SELECT COUNT
+ALTER TABLE ADD AFTER
+
